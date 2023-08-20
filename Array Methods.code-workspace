@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../Array Methods"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "js-array-foreach-map-filter"
+  }
+}
